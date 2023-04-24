@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BMW",
+    "description": "bmw1",
+    "image": "https://images.unsplash.com/photo-1607853554439-0069ec0f29b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2127&q=80",
+    "category": "Category 1",
+    "price": 1099
+  },
+  {
+    "name": "Audi",
+    "description": "Audi 7 series",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Ym13fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "category": "Category 4",
+    "price": 1599
+  },
+  {
+    "name": "Honda",
+    "description": "Honda city",
+    "image": "https://images.unsplash.com/photo-1605816988069-b11383b50717?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8SG9uZGF8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+    "category": "Category 3",
+    "price": 2000
+  },
+  {
+    "name": "Ferrari",
+    "description": "Earphone Bluetooth Headset  (Black, True Wireless)",
+    "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "category": "Category 2",
+    "price": 3000
+  }
+  
+
+]
